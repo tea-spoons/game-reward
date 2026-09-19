@@ -1,0 +1,22 @@
+{
+  "name": "com.tea-spoons.game-reward",
+  "version": "0.1.0",
+  "displayName": "Game Reward",
+  "description": "Rewards as data: bundles of typed items, a service that grants them through handlers you register (all or nothing, with rollback), weighted reward tables and ScriptableObject reward definitions.",
+  "unity": "6000.3",
+  "documentationUrl": "https://github.com/tea-spoons/game-reward#readme",
+  "changelogUrl": "https://github.com/tea-spoons/game-reward/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/tea-spoons/game-reward/blob/main/LICENSE.md",
+  "license": "MIT",
+  "keywords": [
+    "rewards",
+    "loot",
+    "game-systems",
+    "economy"
+  ],
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  }
+}

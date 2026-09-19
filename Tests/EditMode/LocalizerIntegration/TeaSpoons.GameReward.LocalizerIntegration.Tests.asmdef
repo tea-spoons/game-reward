@@ -1,0 +1,33 @@
+{
+  "name": "TeaSpoons.GameReward.LocalizerIntegration.Tests",
+  "rootNamespace": "TeaSpoons.GameReward.Tests",
+  "references": [
+    "UnityEngine.TestRunner",
+    "UnityEditor.TestRunner",
+    "TeaSpoons.GameReward",
+    "TeaSpoons.GameReward.LocalizerIntegration",
+    "TeaSpoons.Localizer"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS",
+    "TEASPOONS_LOCALIZER"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.tea-spoons.localizer",
+      "expression": "0.1.0",
+      "define": "TEASPOONS_LOCALIZER"
+    }
+  ],
+  "noEngineReferences": false
+}
