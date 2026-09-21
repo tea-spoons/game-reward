@@ -1,6 +1,6 @@
 {
   "name": "com.tea-spoons.game-reward",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Game Reward",
   "description": "Rewards as data: bundles of typed items, a service that grants them through handlers you register (all or nothing, with rollback), weighted reward tables and ScriptableObject reward definitions.",
   "unity": "6000.3",
